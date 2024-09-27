@@ -1,3 +1,3 @@
 # 🎨 Color Picker
 
-Follow the instructions in the workshop to finish the assignment!
+https://66f60bf36d45dc8f79fff44a--quiet-blini-d55e7d.netlify.app/
